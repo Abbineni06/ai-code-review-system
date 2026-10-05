@@ -9,7 +9,7 @@ CodeReviewer is an advanced, AI-powered static analysis and code review platform
 * **Performance Insights:** Identifies deep nested loops ($O(n^2)$ complexity) and architectural bottlenecks.
 * **Resilient Architecture:** Fully graceful fallback to the local static engine if the AI API is rate-limited or unavailable.
 * **Professional Dashboard:** A sleek, GitHub-style developer UI with dark/light modes, floating actionable issue cards, and distinct metrics for overall code health.
-* **Language Agnostic:** Natively supports Java, JavaScript, Python, TypeScript, and HTML/CSS with intelligent framework detection (Spring Boot, React, Angular, Vue, Django).
+* **Language Agnostic:** Natively supports Java, JavaScript, Python, TypeScript, and HTML/CSS with intelligent framework detection.
 
 ## 🛠️ Tech Stack
 
